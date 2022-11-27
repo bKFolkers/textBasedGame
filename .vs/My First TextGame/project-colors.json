@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39463f9a-bd62-47ce-9162-7307f51a8493": {
+      "ProjectGuid": "39463f9a-bd62-47ce-9162-7307f51a8493",
+      "DisplayName": "My First TextGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

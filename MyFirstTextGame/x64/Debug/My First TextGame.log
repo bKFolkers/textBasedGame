@@ -1,0 +1,3 @@
+﻿  My First TextGame.cpp
+D:\Microsoft Visual Studios\Repositories\My First TextGame\My First TextGame\My First TextGame.cpp(137,9): warning C4101: 'age': unreferenced local variable
+  My First TextGame.vcxproj -> D:\Microsoft Visual Studios\Repositories\My First TextGame\x64\Debug\My First TextGame.exe
